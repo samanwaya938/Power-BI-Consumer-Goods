@@ -1,2 +1,15 @@
 # Power-BI-Consumer-Goods
-Atliq Hardwares, a top computer hardware producer in India with global reach, seeks to enhance data-driven decision-making. They plan to expand their data analytics team with skilled junior data analysts. Tony Sharma, the data analytics director, initiated a SQL challenge to identify candidates with both technical and soft skills.
+Atliq Hardwares (imaginary company) is one of the leading computer hardware producers in India and well expanded in other countries too.
+
+However, the management noticed that they do not get enough insights to make quick and smart data-informed decisions. They want to expand their data analytics team by adding several junior data analysts. Tony Sharma, their data analytics director wanted to hire someone who is good at both tech and soft skills. Hence, he decided to conduct a SQL challenge which will help him understand both the skills.
+
+Task:  
+
+Imagine yourself as the applicant for this role and perform the following task
+
+1.    Check ‘ad-hoc-requests.pdf’ - there are 10 ad hoc requests for which the business needs insights.
+2.    You need to run a SQL query to answer these requests. 
+3.    The target audience of this dashboard is top-level management - hence you need to create a presentation to show the insights.
+4.    Be creative with your presentation, audio/video presentation will have more weightage.
+
+To open the presentation copy the URL which is provided in Consumer Goods.pbix file
